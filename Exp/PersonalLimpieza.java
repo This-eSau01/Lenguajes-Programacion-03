@@ -1,7 +1,5 @@
 package hotel;
 
-// Principio de Responsabilidad Unica (SRP)
-// Solo se encarga de los datos del personal.
 public class PersonalLimpieza {
     private String nombre;
     private String id;

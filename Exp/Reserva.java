@@ -2,8 +2,6 @@ package hotel;
 
 import java.time.LocalDate;
 
-// Principio de Responsabilidad Unica (SRP)
-// Solo se encarga de los datos de una reserva.
 public class Reserva {
     private Cliente cliente;
     private Habitacion habitacion;

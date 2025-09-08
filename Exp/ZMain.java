@@ -34,7 +34,6 @@ public class ZMain {
             System.err.println("Error de reserva: " + e.getMessage());
         }
 
-        // --- Escenario 2: Reserva con tipo de habitacion inexistente ---
         try {
             System.out.println("\n--- Intentando una reserva fallida por tipo de habitacion ---");
             servicioReserva.realizarReserva(cliente1, "Presidencial", hoy, manana);
@@ -44,7 +43,7 @@ public class ZMain {
             System.err.println("Error inesperado: " + e.getMessage());
         }
 
-        // --- Escenario 3: Reserva con fechas invalidas ---
+
         try {
             System.out.println("\n--- Intentando una reserva fallida por fechas invalidas ---");
             servicioReserva.realizarReserva(cliente1, "Individual", manana, hoy);

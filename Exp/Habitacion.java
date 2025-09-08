@@ -1,7 +1,5 @@
 package hotel;
 
-// Principio de Responsabilidad Unica (SRP)
-// Solo se encarga de los datos de la habitacion.
 public class Habitacion {
     private String numero;
     private TipoHabitacion tipo;

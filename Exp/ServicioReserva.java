@@ -14,7 +14,7 @@ public class ServicioReserva implements GestionReservas {
 
     @Override
     public Reserva realizarReserva(Cliente cliente, String tipoHabitacion, LocalDate fechaInicio, LocalDate fechaFin) {
-        // Validación de datos
+
         if (cliente == null) {
             throw new ReservaException("El cliente no puede ser nulo.");
         }

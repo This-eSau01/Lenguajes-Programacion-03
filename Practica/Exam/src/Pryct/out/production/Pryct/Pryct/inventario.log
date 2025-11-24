@@ -1,0 +1,9 @@
+[2025-11-24T05:40:15.775164600] origen=ControladorInventario, tipo=EQUIPO_REGISTRADO, equipo=2025, detalle=Alta de equipo
+[2025-11-24T05:40:45.347813100] origen=ControladorInventario, tipo=MANTENIMIENTO_REGISTRADO, equipo=2025, detalle=Nuevo mantenimiento
+EQUIPO_REGISTRADO | ControladorInventario | Registro de equipo
+MANTENIMIENTO_REGISTRADO | ControladorInventario | Registro de mantenimiento
+INVENTARIO_CARGADO | ControladorInventario | Cargado desde archivo
+INVENTARIO_CARGADO | ControladorInventario | Cargado desde BD
+INVENTARIO_LIMPIADO | ControladorInventario | Inventario limpiado
+EQUIPO_REGISTRADO | ControladorInventario | Registro de equipo
+MANTENIMIENTO_REGISTRADO | ControladorInventario | Registro de mantenimiento

@@ -1,0 +1,4 @@
+E;2025;Audi;Deportivo;Bueno;50000.0;500
+M;2025;2025-11-24;Fallor Motor;John;2000.0
+E;1001;Toyota Corolla;Sedán;Operativo;18500.0;Motor 1.8L, 4 cilindros, automático, 50,000 km, Color Gris.
+M;1001;2025-11-24;Servicio de 50,000 km. Cambio de aceite, filtro, revisión de frenos y rotación de neumáticos.;John;150.0

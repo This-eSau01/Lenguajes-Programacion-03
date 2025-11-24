@@ -1,0 +1,14 @@
+E;2024;Audi;Deportivo;Critico;50000.0;Fallo Motor
+M;2024;2025-11-24;Falta cambio aceite;John;5000.0
+E;2025;Audi;Deportivo;Bueno;50000.0;500
+M;2025;2025-11-24;Fallor Motor;John;2000.0
+E;1001;Toyota Corolla;Sedán;Operativo;18500.0;Motor 1.8L, 4 cilindros, automático, 50,000 km, Color Gris.
+M;1001;2025-11-24;Servicio de 50,000 km. Cambio de aceite, filtro, revisión de frenos y rotación de neumáticos.;John;150.0
+M;1001;2025-11-24;Reemplazo de batería. La batería actual falló al intentar encender el vehículo;Joseph;500.0
+E;1002;Ford Explorer;SUV;Operativo;32000.0;Motor 3.0L Twin-Turbo, caja PDK, 25,000 km, Color Rojo.
+E;1003;Porsche 911;Coupé;En reparación;85000.0;Motor 3.0L Twin-Turbo, caja PDK, 25,000 km, Color Rojo.
+M;1003;2025-11-24;Reemplazo de los 4 neumáticos delanteros debido a desgaste irregular. Alineación y balanceo.;Joseph;5000.0
+E;1004;Mercedes-Benz Sprinter;Vehículo - Comercial;Requiere revisión;25000.0;Diésel, 3.0L Turbo, capacidad de carga 15m³, 120,000 km.
+M;1004;2025-11-24;Diagnóstico de problemas eléctricos. Reemplazo de fusibles y revisión de cableado principal.;John;7000.0
+E;1005;Volkswagen Beetle;Vehículo - Colección;En restauración;50000.0;Motor 1.6L enfriado por aire, Transmisión manual. Requiere chapa y pintura.
+M;1005;2025-11-24;Actualización de software del BMS (Battery Management System) para optimizar la carga.;John;20000.0
